@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MissionPlanner": {
+      "commandName": "Project",
+      "workingDirectory": "$(TargetDir)"
+    }
+  }
+}
